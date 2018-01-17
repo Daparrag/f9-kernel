@@ -1,0 +1,1 @@
+thread_switch()-->as_setup_mpu()-->nmi_handler()-->pendsv_handler()-->schedule_in_irq()--->context_switch()
